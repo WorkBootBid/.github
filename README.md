@@ -1,8 +1,8 @@
 # WorkBootBid
-Welcome to WorkBootBid, a platform designed to empower blue-collar workers by providing a space where they can anonymously bid on jobs posted by employers. We aim to offer a fair and transparent bidding process while ensuring privacy and equal opportunity for all users.
+Welcome to WorkBootBid, an organization dedicated to empowering blue-collar workers by providing a space where they can anonymously bid on jobs posted by employers. We aim to offer a fair and transparent bidding process while ensuring privacy and equal opportunity for all users.
 
 ## Overview
-WorkBootBid is an open-source project that allows blue-collar workers to:
+WorkBootBid is a private project that allows blue-collar workers to:
 
 - **Bid Anonymously**: Submit bids on job postings without revealing personal details.
 - **Access Job Listings**: Browse through various job opportunities posted by employers.
